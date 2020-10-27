@@ -2,14 +2,8 @@
 principal_path = r'C:\Rede'
 
 import pandas as pd
-import numpy as np
-import math
-import urllib
-from sqlalchemy import create_engine
-from datetime import timedelta, date, datetime
 import random
 import sys
-import threading
 
 def rec_disp(actividad,entidad_fin,zona_com,zona_tec):           
 
